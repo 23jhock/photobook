@@ -1,12 +1,19 @@
-const images = Array.from({length: 117}, (_, i) => `img (${i+1}).jpg`);
+const total = 150;
 
-    const gallery = document.getElementById("gallery");
+const gallery = document.getElementById("gallery");
 
-    images.forEach(img => {
-      const div = document.createElement("div");
-      div.className = "photo";
+for (let i = 1; i <= total; i++) {
+  const div = document.createElement("div");
+  div.className = "photo";
 
-      div.innerHTML = `<img src="server1/${img}">`;
+  const img = document.createElement("img");
 
-      gallery.appendChild(div);
-    });
+  img.src = `server1/img (${i}).jpg`;
+
+  img.onerror = () => {
+    img.src = `server1/img (${i}).png`;
+  };
+
+  div.appendChild(img);
+  gallery.appendChild(div);
+}
