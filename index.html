@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cobblemon Photobook</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <h1>IIAN SERVER PHOTOBOOK</h1>
+  <p class="subtitle">Developed by JH</p>
+
+  <div id="gallery" class="gallery"></div>
+
+  <script>
+    const images = [
+      "img (1).jpg",
+      "img (2).jpg",
+      "img (3).jpg",
+      "img (4).jpg"
+    ];
+
+    const gallery = document.getElementById("gallery");
+
+    images.forEach(img => {
+      const div = document.createElement("div");
+      div.className = "photo";
+
+      div.innerHTML = `<img src="images/server1/${img}">`;
+
+      gallery.appendChild(div);
+    });
+  </script>
+
+</body>
+</html>
