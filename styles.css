@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   background: #e6e6e6;
   text-align: center;
   margin: 0;
@@ -14,22 +14,20 @@ h1 {
   color: #555;
 }
 
-/* 2 COLUMN GRID */
 .gallery {
   display: grid;
-  grid-template-columns: 1fr 1fr; /* always 2 per row */
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 20px;
   padding: 20px;
-  max-width: 1000px;
   margin: auto;
 }
 
-/* PHOTO STYLE */
+
 .photo {
   background: #a9b8c6;
   border: 2px solid #333;
   overflow: hidden;
-  aspect-ratio: 16 / 9; /* keeps all images consistent */
+  aspect-ratio: 16 / 9;
 }
 
 .photo img {
