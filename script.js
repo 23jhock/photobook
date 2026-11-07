@@ -156,9 +156,19 @@ function openLightbox(index) {
   lightboxClose.focus();
 }
 
+lightboxImage.addEventListener("error", () => {
+  const fallback = lightboxImage.dataset.fallback;
+  if (fallback && lightboxImage.dataset.fallbackTried !== "true") {
+    lightboxImage.dataset.fallbackTried = "true";
+    lightboxImage.src = fallback;
+  }
+});
+
 function updateLightbox() {
   const image = activeGallery.images[activeLightboxIndex];
   const path = image.src;
+  lightboxImage.dataset.fallback = image.fallback || "";
+  lightboxImage.dataset.fallbackTried = "false";
   lightboxImage.src = path;
   lightboxImage.alt = filenameFromPath(path);
   lightboxFilename.textContent = filenameFromPath(path);
