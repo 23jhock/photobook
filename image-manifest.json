@@ -1,0 +1,406 @@
+{
+  "version": 1,
+  "galleries": [
+    {
+      "id": "irl-meetup",
+      "title": "IRL Meetup",
+      "folder": "irl-meetup",
+      "images": []
+    },
+    {
+      "id": "pixelmon",
+      "title": "Pixelmon",
+      "folder": "pixelmon",
+      "images": []
+    },
+    {
+      "id": "cobblemon",
+      "title": "Cobblemon",
+      "folder": "cobblemon",
+      "images": [
+        {
+          "src": "cobblemon/img (1).jpg",
+          "fallback": "cobblemon/img (1).png"
+        },
+        {
+          "src": "cobblemon/img (2).jpg",
+          "fallback": "cobblemon/img (2).png"
+        },
+        {
+          "src": "cobblemon/img (3).jpg",
+          "fallback": "cobblemon/img (3).png"
+        },
+        {
+          "src": "cobblemon/img (4).jpg",
+          "fallback": "cobblemon/img (4).png"
+        },
+        {
+          "src": "cobblemon/img (5).jpg",
+          "fallback": "cobblemon/img (5).png"
+        },
+        {
+          "src": "cobblemon/img (6).jpg",
+          "fallback": "cobblemon/img (6).png"
+        },
+        {
+          "src": "cobblemon/img (7).jpg",
+          "fallback": "cobblemon/img (7).png"
+        },
+        {
+          "src": "cobblemon/img (8).jpg",
+          "fallback": "cobblemon/img (8).png"
+        },
+        {
+          "src": "cobblemon/img (9).jpg",
+          "fallback": "cobblemon/img (9).png"
+        },
+        {
+          "src": "cobblemon/img (10).jpg",
+          "fallback": "cobblemon/img (10).png"
+        },
+        {
+          "src": "cobblemon/img (11).jpg",
+          "fallback": "cobblemon/img (11).png"
+        },
+        {
+          "src": "cobblemon/img (12).jpg",
+          "fallback": "cobblemon/img (12).png"
+        },
+        {
+          "src": "cobblemon/img (13).jpg",
+          "fallback": "cobblemon/img (13).png"
+        },
+        {
+          "src": "cobblemon/img (14).jpg",
+          "fallback": "cobblemon/img (14).png"
+        },
+        {
+          "src": "cobblemon/img (15).jpg",
+          "fallback": "cobblemon/img (15).png"
+        },
+        {
+          "src": "cobblemon/img (16).jpg",
+          "fallback": "cobblemon/img (16).png"
+        },
+        {
+          "src": "cobblemon/img (17).jpg",
+          "fallback": "cobblemon/img (17).png"
+        },
+        {
+          "src": "cobblemon/img (18).jpg",
+          "fallback": "cobblemon/img (18).png"
+        },
+        {
+          "src": "cobblemon/img (19).jpg",
+          "fallback": "cobblemon/img (19).png"
+        },
+        {
+          "src": "cobblemon/img (20).jpg",
+          "fallback": "cobblemon/img (20).png"
+        },
+        {
+          "src": "cobblemon/img (21).jpg",
+          "fallback": "cobblemon/img (21).png"
+        },
+        {
+          "src": "cobblemon/img (22).jpg",
+          "fallback": "cobblemon/img (22).png"
+        },
+        {
+          "src": "cobblemon/img (23).jpg",
+          "fallback": "cobblemon/img (23).png"
+        },
+        {
+          "src": "cobblemon/img (24).jpg",
+          "fallback": "cobblemon/img (24).png"
+        },
+        {
+          "src": "cobblemon/img (25).jpg",
+          "fallback": "cobblemon/img (25).png"
+        },
+        {
+          "src": "cobblemon/img (26).jpg"
+        },
+        {
+          "src": "cobblemon/img (27).jpg"
+        },
+        {
+          "src": "cobblemon/img (28).jpg"
+        },
+        {
+          "src": "cobblemon/img (29).jpg"
+        },
+        {
+          "src": "cobblemon/img (30).jpg"
+        },
+        {
+          "src": "cobblemon/img (31).jpg"
+        },
+        {
+          "src": "cobblemon/img (32).jpg"
+        },
+        {
+          "src": "cobblemon/img (33).jpg"
+        },
+        {
+          "src": "cobblemon/img (34).jpg"
+        },
+        {
+          "src": "cobblemon/img (35).jpg"
+        },
+        {
+          "src": "cobblemon/img (36).jpg"
+        },
+        {
+          "src": "cobblemon/img (37).jpg"
+        },
+        {
+          "src": "cobblemon/img (38).jpg"
+        },
+        {
+          "src": "cobblemon/img (39).jpg"
+        },
+        {
+          "src": "cobblemon/img (40).jpg"
+        },
+        {
+          "src": "cobblemon/img (41).jpg"
+        },
+        {
+          "src": "cobblemon/img (42).jpg"
+        },
+        {
+          "src": "cobblemon/img (43).jpg"
+        },
+        {
+          "src": "cobblemon/img (44).jpg"
+        },
+        {
+          "src": "cobblemon/img (45).jpg"
+        },
+        {
+          "src": "cobblemon/img (46).jpg"
+        },
+        {
+          "src": "cobblemon/img (47).jpg"
+        },
+        {
+          "src": "cobblemon/img (48).jpg"
+        },
+        {
+          "src": "cobblemon/img (49).jpg"
+        },
+        {
+          "src": "cobblemon/img (50).jpg"
+        },
+        {
+          "src": "cobblemon/img (51).jpg"
+        },
+        {
+          "src": "cobblemon/img (52).jpg"
+        },
+        {
+          "src": "cobblemon/img (53).jpg"
+        },
+        {
+          "src": "cobblemon/img (54).jpg"
+        },
+        {
+          "src": "cobblemon/img (55).jpg"
+        },
+        {
+          "src": "cobblemon/img (56).jpg"
+        },
+        {
+          "src": "cobblemon/img (57).jpg"
+        },
+        {
+          "src": "cobblemon/img (58).jpg"
+        },
+        {
+          "src": "cobblemon/img (59).jpg"
+        },
+        {
+          "src": "cobblemon/img (60).jpg"
+        },
+        {
+          "src": "cobblemon/img (61).jpg"
+        },
+        {
+          "src": "cobblemon/img (62).jpg"
+        },
+        {
+          "src": "cobblemon/img (63).jpg"
+        },
+        {
+          "src": "cobblemon/img (64).jpg"
+        },
+        {
+          "src": "cobblemon/img (65).jpg"
+        },
+        {
+          "src": "cobblemon/img (66).jpg"
+        },
+        {
+          "src": "cobblemon/img (67).jpg"
+        },
+        {
+          "src": "cobblemon/img (68).jpg"
+        },
+        {
+          "src": "cobblemon/img (69).jpg"
+        },
+        {
+          "src": "cobblemon/img (70).jpg"
+        },
+        {
+          "src": "cobblemon/img (71).jpg"
+        },
+        {
+          "src": "cobblemon/img (72).jpg"
+        },
+        {
+          "src": "cobblemon/img (73).jpg"
+        },
+        {
+          "src": "cobblemon/img (74).jpg"
+        },
+        {
+          "src": "cobblemon/img (75).jpg"
+        },
+        {
+          "src": "cobblemon/img (76).jpg"
+        },
+        {
+          "src": "cobblemon/img (77).jpg"
+        },
+        {
+          "src": "cobblemon/img (78).jpg"
+        },
+        {
+          "src": "cobblemon/img (79).jpg"
+        },
+        {
+          "src": "cobblemon/img (80).jpg"
+        },
+        {
+          "src": "cobblemon/img (81).jpg"
+        },
+        {
+          "src": "cobblemon/img (82).jpg"
+        },
+        {
+          "src": "cobblemon/img (83).jpg"
+        },
+        {
+          "src": "cobblemon/img (84).jpg"
+        },
+        {
+          "src": "cobblemon/img (85).jpg"
+        },
+        {
+          "src": "cobblemon/img (86).jpg"
+        },
+        {
+          "src": "cobblemon/img (87).jpg"
+        },
+        {
+          "src": "cobblemon/img (88).jpg"
+        },
+        {
+          "src": "cobblemon/img (89).jpg"
+        },
+        {
+          "src": "cobblemon/img (90).jpg"
+        },
+        {
+          "src": "cobblemon/img (91).jpg"
+        },
+        {
+          "src": "cobblemon/img (92).jpg"
+        },
+        {
+          "src": "cobblemon/img (93).jpg"
+        },
+        {
+          "src": "cobblemon/img (94).jpg"
+        },
+        {
+          "src": "cobblemon/img (95).jpg"
+        },
+        {
+          "src": "cobblemon/img (96).jpg"
+        },
+        {
+          "src": "cobblemon/img (97).jpg"
+        },
+        {
+          "src": "cobblemon/img (98).jpg"
+        },
+        {
+          "src": "cobblemon/img (99).jpg"
+        },
+        {
+          "src": "cobblemon/img (100).jpg"
+        },
+        {
+          "src": "cobblemon/img (101).jpg"
+        },
+        {
+          "src": "cobblemon/img (102).jpg"
+        },
+        {
+          "src": "cobblemon/img (103).jpg"
+        },
+        {
+          "src": "cobblemon/img (104).jpg"
+        },
+        {
+          "src": "cobblemon/img (105).jpg"
+        },
+        {
+          "src": "cobblemon/img (106).jpg"
+        },
+        {
+          "src": "cobblemon/img (107).jpg"
+        },
+        {
+          "src": "cobblemon/img (108).jpg"
+        },
+        {
+          "src": "cobblemon/img (109).jpg"
+        },
+        {
+          "src": "cobblemon/img (110).jpg"
+        },
+        {
+          "src": "cobblemon/img (111).jpg"
+        },
+        {
+          "src": "cobblemon/img (112).jpg"
+        },
+        {
+          "src": "cobblemon/img (113).jpg"
+        },
+        {
+          "src": "cobblemon/img (114).jpg"
+        },
+        {
+          "src": "cobblemon/img (115).jpg"
+        },
+        {
+          "src": "cobblemon/img (116).jpg"
+        },
+        {
+          "src": "cobblemon/img (117).jpg"
+        }
+      ]
+    },
+    {
+      "id": "uhcs",
+      "title": "UHCS",
+      "folder": "uhcs",
+      "images": []
+    }
+  ]
+}
