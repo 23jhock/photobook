@@ -113,61 +113,80 @@
           "fallback": "pixelmon/img (25).png"
         },
         {
-          "src": "pixelmon/img (26).jpg"
+          "src": "pixelmon/img (26).jpg",
+          "fallback": "pixelmon/img (26).png"
         },
         {
-          "src": "pixelmon/img (27).jpg"
+          "src": "pixelmon/img (27).jpg",
+          "fallback": "pixelmon/img (27).png"
         },
         {
-          "src": "pixelmon/img (28).jpg"
+          "src": "pixelmon/img (28).jpg",
+          "fallback": "pixelmon/img (28).png"
         },
         {
-          "src": "pixelmon/img (29).jpg"
+          "src": "pixelmon/img (29).jpg",
+          "fallback": "pixelmon/img (29).png"
         },
         {
-          "src": "pixelmon/img (30).jpg"
+          "src": "pixelmon/img (30).jpg",
+          "fallback": "pixelmon/img (30).png"
         },
         {
-          "src": "pixelmon/img (31).jpg"
+          "src": "pixelmon/img (31).jpg",
+          "fallback": "pixelmon/img (31).png"
         },
         {
-          "src": "pixelmon/img (32).jpg"
+          "src": "pixelmon/img (32).jpg",
+          "fallback": "pixelmon/img (32).png"
         },
         {
-          "src": "pixelmon/img (33).jpg"
+          "src": "pixelmon/img (33).jpg",
+          "fallback": "pixelmon/img (33).png"
         },
         {
-          "src": "pixelmon/img (34).jpg"
+          "src": "pixelmon/img (34).jpg",
+          "fallback": "pixelmon/img (34).png"
         },
         {
-          "src": "pixelmon/img (35).jpg"
+          "src": "pixelmon/img (35).jpg",
+          "fallback": "pixelmon/img (35).png"
         },
         {
-          "src": "pixelmon/img (36).jpg"
+          "src": "pixelmon/img (36).jpg",
+          "fallback": "pixelmon/img (36).png"
         },
         {
-          "src": "pixelmon/img (37).jpg"
+          "src": "pixelmon/img (37).jpg",
+          "fallback": "pixelmon/img (37).png"
         },
         {
-          "src": "pixelmon/img (38).jpg"
+          "src": "pixelmon/img (38).jpg",
+          "fallback": "pixelmon/img (38).png"
         },
         {
-          "src": "pixelmon/img (39).jpg"
+          "src": "pixelmon/img (39).jpg",
+          "fallback": "pixelmon/img (39).png"
         },
         {
-          "src": "pixelmon/img (40).jpg"
+          "src": "pixelmon/img (40).jpg",
+          "fallback": "pixelmon/img (40).png"
         },
         {
-          "src": "pixelmon/img (41).jpg"
+          "src": "pixelmon/img (41).jpg",
+          "fallback": "pixelmon/img (41).png"
         },
         {
-          "src": "pixelmon/img (42).jpg"
+          "src": "pixelmon/img (42).jpg",
+          "fallback": "pixelmon/img (42).png"
         },
         {
-          "src": "pixelmon/img (43).jpg"
+          "src": "pixelmon/img (43).jpg",
+          "fallback": "pixelmon/img (43).png"
         },
         {
-          "src": "pixelmon/img (44).jpg"
+          "src": "pixelmon/img (44).jpg",
+          "fallback": "pixelmon/img (44).png"
         },
         {
           "src": "pixelmon/img (45).jpg"
@@ -455,7 +474,92 @@
       "id": "uhcs",
       "title": "UHCS",
       "folder": "uhcs",
-      "images": []
+      "images": [
+        {
+          "src": "uhcs/img (1).png"
+        },
+        {
+          "src": "uhcs/img (2).png"
+        },
+        {
+          "src": "uhcs/img (3).png"
+        },
+        {
+          "src": "uhcs/img (4).png"
+        },
+        {
+          "src": "uhcs/img (5).png"
+        },
+        {
+          "src": "uhcs/img (6).png"
+        },
+        {
+          "src": "uhcs/img (7).png"
+        },
+        {
+          "src": "uhcs/img (8).png"
+        },
+        {
+          "src": "uhcs/img (9).png"
+        },
+        {
+          "src": "uhcs/img (10).png"
+        },
+        {
+          "src": "uhcs/img (11).png"
+        },
+        {
+          "src": "uhcs/img (12).png"
+        },
+        {
+          "src": "uhcs/img (13).png"
+        },
+        {
+          "src": "uhcs/img (14).png"
+        },
+        {
+          "src": "uhcs/img (15).png"
+        },
+        {
+          "src": "uhcs/img (16).png"
+        },
+        {
+          "src": "uhcs/img (17).png"
+        },
+        {
+          "src": "uhcs/img (18).png"
+        },
+        {
+          "src": "uhcs/img (19).png"
+        },
+        {
+          "src": "uhcs/img (20).png"
+        },
+        {
+          "src": "uhcs/img (21).png"
+        },
+        {
+          "src": "uhcs/img (22).png"
+        },
+        {
+          "src": "uhcs/img (23).png"
+        },
+        {
+          "src": "uhcs/img (24).png"
+        },
+        {
+          "src": "uhcs/img (25).png"
+        },
+        {
+          "src": "uhcs/img (26).png"
+        },
+        {
+          "src": "uhcs/img (27).png"
+        },
+        {
+          "src": "uhcs/img (28).png"
+        }
+      ]
     }
   ]
 }
