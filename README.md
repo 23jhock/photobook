@@ -1,14 +1,5 @@
 # IIAN Server Photobook
 
-A lightweight, static photo gallery for screenshots and memories from our servers and meetups. It runs on GitHub Pages with plain HTML, CSS, and JavaScript.
-
-## Galleries
-
-- **IRL Meetup** — `irl-meetup/`
-- **Pixelmon** — `pixelmon/`
-- **Cobblemon** — `cobblemon/`
-- **Misc. → UHCS** — `uhcs/`
-
 Each gallery uses the same numbered filename convention: `img (1).jpg`, `img (2).jpg`, and so on. PNG files are also supported. If both JPG and PNG exist for a number, JPG is used first and PNG is kept as a fallback.
 
 ## Adding photos
@@ -20,11 +11,6 @@ Each gallery uses the same numbered filename convention: `img (1).jpg`, `img (2)
    **Windows**
    ```powershell
    py generate-manifest.py
-   ```
-
-   **macOS / Linux**
-   ```bash
-   python3 generate-manifest.py
    ```
 
 4. Commit the photos and the updated `image-manifest.json` together.
